@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot](https://github.com/Uttam-Patel/FM_product-preview-card/assets/74789656/17ed1415-68d1-405e-8e64-cadf0fae9063)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [View Solution](https://github.com/Uttam-Patel/FM_product-preview-card.git)
+- Live Site URL: [View Site](https://uttam-patel.github.io/FM_product-preview-card/)
 
 ## My process
 
